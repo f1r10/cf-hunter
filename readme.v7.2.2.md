@@ -50,7 +50,7 @@ Yəni bu alət **təhlükəsiz recon + analysis + posture review** üçündür.
 Kodda bu sətr var:
 
 ```python
-BASE_PATH = "/mnt/data/cf_hunter_v7.2.1.py"
+BASE_PATH = "cf_hunter_v7.2.1.py"
 ```
 
 Bu o deməkdir ki:

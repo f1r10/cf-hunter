@@ -33,7 +33,7 @@ import time
 from datetime import datetime
 from typing import Any, Dict, List, Tuple
 
-BASE_PATH = "/mnt/data/cf_hunter_v7.2.1.py"
+BASE_PATH = "cf_hunter_v7.2.1.py"
 
 
 def _load_base():
